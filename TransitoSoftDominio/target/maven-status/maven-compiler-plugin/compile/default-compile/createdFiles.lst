@@ -1,0 +1,9 @@
+pe\edu\pucp\transitosoft\dominio\DateAdapter.class
+pe\edu\pucp\transitosoft\dominio\RegistroInfraccion.class
+pe\edu\pucp\transitosoft\dominio\TipoLicencia.class
+pe\edu\pucp\transitosoft\enums\Gravedad.class
+pe\edu\pucp\transitosoft\dominio\ReporteInfraccion.class
+pe\edu\pucp\transitosoft\dominio\Vehiculo.class
+pe\edu\pucp\transitosoft\dominio\VehiculoConductor.class
+pe\edu\pucp\transitosoft\dominio\Conductor.class
+pe\edu\pucp\transitosoft\dominio\Infraccion.class

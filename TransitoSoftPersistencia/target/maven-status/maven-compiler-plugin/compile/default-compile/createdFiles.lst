@@ -1,0 +1,15 @@
+pe\edu\pucp\transitosoft\persistencia\DAO\TipoLicenciaDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\ConductorDAOImpl.class
+pe\edu\pucp\transitosoft\persistencia\DAO\ConductorDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\InfraccionDAOImpl.class
+pe\edu\pucp\transitosoft\persistencia\DAO\BaseDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\TipoLicenciaDAOImpl.class
+pe\edu\pucp\transitosoft\persistencia\DAO\ReporteInfraccionDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\ReporteInfraccionDAOImpl.class
+pe\edu\pucp\transitosoft\persistencia\DAO\InfraccionDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAO\RegistroInfraccionDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAO\VehiculoConductorDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\VehiculoConductorDAOImpl.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\VehiculoDAOImpl.class
+pe\edu\pucp\transitosoft\persistencia\DAO\VehiculoDAO.class
+pe\edu\pucp\transitosoft\persistencia\DAOImpl\RegistroInfraccionDAOImpl.class
